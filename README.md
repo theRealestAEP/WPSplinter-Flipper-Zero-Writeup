@@ -12,9 +12,9 @@ In the end we were able to reproduce the Broadcom WPS registrar overflow documen
 
 <!-- Recorded run: scan, hidden-AP selection, overflow dump, recovered key. -->
 <p align="center">
-  <img src="assets/flipper-run.gif" width="620" alt="ASCII-art Flipper Zero playing the recorded session: scan, target selection, overflow dump, recovered key">
+  <img src="wpsplinter-session-2026-11-17/session-2026-11-17/run.gif" width="512" alt="Recorded Flipper Zero run: scan, target selection, overflow dump, recovered key">
   <br>
-  <sub><a href="wpsplinter-session-2026-11-17/session-2026-11-17/run.gif">Source capture</a> · <a href="wpsplinter-session-2026-11-17/session-2026-11-17/README.md">Recorded session notes</a></sub>
+  <sub><a href="wpsplinter-session-2026-11-17/session-2026-11-17/README.md">Recorded session notes</a></sub>
 </p>
 
 ---
