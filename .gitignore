@@ -4,7 +4,9 @@
 # macOS
 .DS_Store
 
-assets/
+# hero build tooling (regenerates assets/flipper-run.gif)
+assets/build-hero.py
+assets/flipper-screen.png
 
 # python scratch
 __pycache__/
