@@ -1,0 +1,1006 @@
+=== wpsplinter trace start ===
+PARAMS mode=1 frag=256 ptr=0x00000000 be=1 auto=1 tries=3 rounds=250
+PING ok
+SCAN start
+LIVE 10:0d:7f:xx:xx:xx ch1 rssi=-35 wps=1 brcm=1 ''
+LIVE [redacted] ch1 rssi=-73 wps=0 brcm=1 ''
+LIVE [redacted] ch1 rssi=-85 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-72 wps=0 brcm=1 ''
+LIVE [redacted] ch1 rssi=-77 wps=1 brcm=0 '[redacted]'
+LIVE [redacted] ch1 rssi=-73 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-73 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-78 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch1 rssi=-66 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch1 rssi=-81 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-86 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch1 rssi=-88 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-77 wps=1 brcm=0 ''
+LIVE [redacted] ch1 rssi=-77 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-77 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-75 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-86 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch1 rssi=-85 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-88 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-85 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-86 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-87 wps=0 brcm=0 ''
+LIVE [redacted] ch1 rssi=-88 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch1 rssi=-88 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch4 rssi=-72 wps=0 brcm=1 ''
+LIVE [redacted] ch4 rssi=-83 wps=0 brcm=1 ''
+LIVE [redacted] ch4 rssi=-71 wps=1 brcm=1 ''
+LIVE [redacted] ch6 rssi=-56 wps=1 brcm=1 ''
+LIVE [redacted] ch6 rssi=-74 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-75 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-69 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-33 wps=1 brcm=0 ''
+LIVE [redacted] ch4 rssi=-91 wps=1 brcm=0 ''
+LIVE [redacted] ch5 rssi=-81 wps=1 brcm=1 ''
+LIVE [redacted] ch6 rssi=-69 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-85 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-86 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch5 rssi=-79 wps=1 brcm=0 '[redacted]'
+LIVE [redacted] ch5 rssi=-79 wps=0 brcm=0 ''
+LIVE [redacted] ch5 rssi=-83 wps=1 brcm=1 ''
+LIVE [redacted] ch5 rssi=-82 wps=1 brcm=1 ''
+LIVE [redacted] ch6 rssi=-67 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-68 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch6 rssi=-32 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-80 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-69 wps=1 brcm=1 ''
+LIVE [redacted] ch6 rssi=-81 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-66 wps=1 brcm=0 ''
+LIVE [redacted] ch6 rssi=-74 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-74 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-76 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-77 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-82 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-64 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-66 wps=0 brcm=1 ''
+LIVE [redacted] ch6 rssi=-66 wps=0 brcm=1 ''
+LIVE [redacted] ch6 rssi=-84 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch6 rssi=-68 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-66 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-65 wps=1 brcm=0 '[redacted]'
+LIVE [redacted] ch6 rssi=-80 wps=0 brcm=0 '[redacted]'
+LIVE [redacted] ch6 rssi=-78 wps=1 brcm=0 '[redacted]'
+LIVE [redacted] ch6 rssi=-80 wps=0 brcm=0 ''
+LIVE [redacted] ch6 rssi=-76 wps=1 brcm=0 ''
+LIVE [redacted] ch5 rssi=-78 wps=0 brcm=1 ''
+LIVE [redacted] ch7 rssi=-85 wps=0 brcm=1 ''
+LIVE [redacted] ch8 rssi=-81 wps=0 brcm=0 ''
+LIVE [redacted] ch8 rssi=-88 wps=0 brcm=0 ''
+LIVE [redacted] ch10 rssi=-76 wps=1 brcm=0 ''
+LIVE [redacted] ch8 rssi=-84 wps=1 brcm=1 '[redacted]'
+LIVE [redacted] ch10 rssi=-76 wps=0 brcm=0 ''
+LIVE [redacted] ch8 rssi=-80 wps=1 brcm=0 ''
+LIVE [redacted] ch8 rssi=-89 wps=1 brcm=0 '[redacted]'
+LIVE [redacted] ch11 rssi=-69 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-81 wps=0 brcm=0 ''
+LIVE [redacted] ch10 rssi=-88 wps=1 brcm=1 ''
+LIVE [redacted] ch11 rssi=-83 wps=0 brcm=0 ''
+LIVE [redacted] ch10 rssi=-89 wps=1 brcm=0 '[redacted]'
+LIVE [redacted] ch10 rssi=-88 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-72 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-82 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-82 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-83 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-84 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-77 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-70 wps=1 brcm=1 '[redacted]'
+LIVE [redacted] ch11 rssi=-78 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-76 wps=0 brcm=1 ''
+LIVE [redacted] ch11 rssi=-76 wps=0 brcm=1 ''
+LIVE [redacted] ch11 rssi=-77 wps=0 brcm=1 ''
+LIVE [redacted] ch11 rssi=-83 wps=1 brcm=1 ''
+LIVE [redacted] ch11 rssi=-85 wps=0 brcm=1 ''
+LIVE [redacted] ch11 rssi=-84 wps=0 brcm=1 ''
+LIVE [redacted] ch11 rssi=-86 wps=1 brcm=1 ''
+LIVE [redacted] ch11 rssi=-81 wps=1 brcm=1 ''
+LIVE [redacted] ch11 rssi=-89 wps=1 brcm=0 '[redacted]'
+LIVE [redacted] ch11 rssi=-87 wps=1 brcm=1 ''
+LIVE [redacted] ch11 rssi=-87 wps=0 brcm=0 ''
+LIVE [redacted] ch11 rssi=-76 wps=1 brcm=0 ''
+SCAN done n=99 live=255 drops=0 t_n=99 t0=100d7f000000
+T 10:0d:7f:xx:xx:xx ch1 rssi=-33 wps=1 brcm=1 probe=0 ''
+T [redacted] ch1 rssi=-69 wps=0 brcm=1 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-83 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-69 wps=0 brcm=1 probe=0 ''
+T [redacted] ch1 rssi=-72 wps=1 brcm=0 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-72 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-72 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-72 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-65 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-81 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-84 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-86 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-74 wps=1 brcm=0 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-74 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-73 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-74 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-86 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-85 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-88 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-85 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-86 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-87 wps=0 brcm=0 probe=0 ''
+T [redacted] ch1 rssi=-88 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch1 rssi=-88 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch4 rssi=-65 wps=0 brcm=1 probe=0 ''
+T [redacted] ch4 rssi=-72 wps=0 brcm=1 probe=0 ''
+T [redacted] ch4 rssi=-35 wps=1 brcm=1 probe=0 ''
+T [redacted] ch6 rssi=-47 wps=1 brcm=1 probe=0 '[redacted]'
+T [redacted] ch6 rssi=-62 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-67 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-64 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-24 wps=1 brcm=0 probe=0 ''
+T [redacted] ch4 rssi=-91 wps=1 brcm=0 probe=0 ''
+T [redacted] ch5 rssi=-77 wps=1 brcm=1 probe=0 '[redacted]'
+T [redacted] ch6 rssi=-68 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch6 rssi=-84 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-85 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch5 rssi=-77 wps=1 brcm=0 probe=0 '[redacted]'
+T [redacted] ch5 rssi=-76 wps=0 brcm=0 probe=0 ''
+T [redacted] ch5 rssi=-81 wps=1 brcm=1 probe=0 ''
+T [redacted] ch5 rssi=-82 wps=1 brcm=1 probe=0 ''
+T [redacted] ch6 rssi=-65 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-67 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch6 rssi=-30 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-80 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-68 wps=1 brcm=1 probe=0 ''
+T [redacted] ch6 rssi=-80 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-65 wps=1 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-74 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-73 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-76 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-76 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-81 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-63 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-66 wps=0 brcm=1 probe=0 ''
+T [redacted] ch6 rssi=-66 wps=0 brcm=1 probe=0 ''
+T [redacted] ch6 rssi=-82 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch6 rssi=-67 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-66 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-63 wps=1 brcm=0 probe=0 '[redacted]'
+T [redacted] ch6 rssi=-75 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch6 rssi=-75 wps=1 brcm=0 probe=0 '[redacted]'
+T [redacted] ch6 rssi=-80 wps=0 brcm=0 probe=0 ''
+T [redacted] ch6 rssi=-73 wps=1 brcm=0 probe=0 ''
+T [redacted] ch5 rssi=-78 wps=0 brcm=1 probe=0 ''
+T [redacted] ch7 rssi=-84 wps=0 brcm=1 probe=0 ''
+T [redacted] ch8 rssi=-78 wps=0 brcm=0 probe=0 ''
+T [redacted] ch8 rssi=-88 wps=0 brcm=0 probe=0 ''
+T [redacted] ch10 rssi=-66 wps=1 brcm=0 probe=0 '[redacted]'
+T [redacted] ch8 rssi=-82 wps=1 brcm=1 probe=0 '[redacted]'
+T [redacted] ch10 rssi=-66 wps=0 brcm=0 probe=0 ''
+T [redacted] ch8 rssi=-74 wps=1 brcm=0 probe=0 ''
+T [redacted] ch8 rssi=-89 wps=1 brcm=0 probe=0 '[redacted]'
+T [redacted] ch11 rssi=-62 wps=0 brcm=0 probe=0 ''
+T [redacted] ch11 rssi=-78 wps=0 brcm=0 probe=0 ''
+T [redacted] ch10 rssi=-88 wps=1 brcm=1 probe=0 ''
+T [redacted] ch11 rssi=-75 wps=0 brcm=0 probe=0 ''
+T [redacted] ch10 rssi=-89 wps=1 brcm=0 probe=0 '[redacted]'
+T [redacted] ch10 rssi=-88 wps=0 brcm=0 probe=0 ''
+T [redacted] ch11 rssi=-68 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch11 rssi=-78 wps=0 brcm=0 probe=0 ''
+T [redacted] ch11 rssi=-82 wps=0 brcm=0 probe=0 ''
+T [redacted] ch11 rssi=-82 wps=0 brcm=0 probe=0 ''
+T [redacted] ch11 rssi=-82 wps=0 brcm=0 probe=0 ''
+T [redacted] ch11 rssi=-76 wps=0 brcm=0 probe=0 ''
+T [redacted] ch11 rssi=-69 wps=1 brcm=1 probe=0 '[redacted]'
+T [redacted] ch11 rssi=-76 wps=0 brcm=0 probe=0 '[redacted]'
+T [redacted] ch11 rssi=-75 wps=0 brcm=1 probe=0 ''
+T [redacted] ch11 rssi=-75 wps=0 brcm=1 probe=0 ''
+T [redacted] ch11 rssi=-75 wps=0 brcm=1 probe=0 ''
+T [redacted] ch11 rssi=-83 wps=1 brcm=1 probe=0 ''
+T [redacted] ch11 rssi=-85 wps=0 brcm=1 probe=0 ''
+T [redacted] ch11 rssi=-84 wps=0 brcm=1 probe=0 ''
+T [redacted] ch11 rssi=-84 wps=1 brcm=1 probe=0 '[redacted]'
+T [redacted] ch11 rssi=-81 wps=1 brcm=1 probe=0 ''
+T [redacted] ch11 rssi=-89 wps=1 brcm=0 probe=0 '[redacted]'
+T [redacted] ch11 rssi=-87 wps=1 brcm=1 probe=0 ''
+T [redacted] ch11 rssi=-87 wps=0 brcm=0 probe=0 ''
+T [redacted] ch11 rssi=-76 wps=1 brcm=0 probe=0 ''
+SEL 2/99 10:0d:7f:xx:xx:xx '..XX:XX:XX' all *
+PARAMS mode=1 frag=256 ptr=0x00000000 be=1 auto=1 tries=3 rounds=250
+PING ok
+DUMP 10:0d:7f:xx:xx:xx ch1 '(hidden)' rssi=-33 wps=1 brcm=1
+V auto(15) code=162 len=4 00011010
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0100
+V frag timeout(10) code=3 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag timeout(10) code=2 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V identity req(5) code=14 len=16 0101000efe00372a0000000101000000
+V WSC start(7) code=1 len=8 0101000efe00372a
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag timeout(10) code=2 len=0 
+V rx frame(14) code=14 len=2 0600
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0001
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 00000000
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V identity req(5) code=14 len=16 0101000efe00372a0000000101000000
+V WSC start(7) code=1 len=8 0101000efe00372a
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0006
+V auto(15) code=163 len=3 000000
+V auto(15) code=162 len=4 01011810
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag timeout(10) code=2 len=0 
+V rx frame(14) code=14 len=2 0600
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=0 len=2 0800
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=9 len=0 
+V frag sent(8) code=0 len=2 0900
+V frag timeout(10) code=10 len=0 
+V frag sent(8) code=0 len=2 0a00
+V frag timeout(10) code=11 len=0 
+V frag sent(8) code=0 len=2 0b00
+V frag timeout(10) code=12 len=0 
+V frag sent(8) code=0 len=2 0c00
+V frag timeout(10) code=13 len=0 
+V frag sent(8) code=0 len=2 0d00
+V frag timeout(10) code=14 len=0 
+V frag sent(8) code=0 len=2 0e00
+V frag timeout(10) code=15 len=0 
+V frag sent(8) code=0 len=2 0f00
+V frag timeout(10) code=16 len=0 
+V frag sent(8) code=2 len=2 1002
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=0 len=2 0800
+V frag timeout(10) code=9 len=0 
+V frag sent(8) code=0 len=2 0900
+V frag timeout(10) code=10 len=0 
+V frag sent(8) code=0 len=2 0a00
+V frag timeout(10) code=11 len=0 
+V frag sent(8) code=0 len=2 0b00
+V frag timeout(10) code=12 len=0 
+V frag sent(8) code=0 len=2 0c00
+V frag timeout(10) code=13 len=0 
+V frag sent(8) code=0 len=2 0d00
+V frag timeout(10) code=14 len=0 
+V frag sent(8) code=0 len=2 0e00
+V frag timeout(10) code=15 len=0 
+V frag sent(8) code=0 len=2 0f00
+V frag timeout(10) code=16 len=0 
+V frag sent(8) code=2 len=2 1002
+V auto(15) code=164 len=4 000e0006
+V auto(15) code=163 len=3 010000
+V auto(15) code=162 len=4 02001010
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 00000000
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 00000000
+V auto(15) code=163 len=3 020000
+V auto(15) code=162 len=4 03001810
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V identity req(5) code=14 len=16 0101000efe00372a0000000101000000
+V WSC start(7) code=1 len=8 0101000efe00372a
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=0 len=2 0800
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=9 len=0 
+V frag sent(8) code=0 len=2 0900
+V frag timeout(10) code=10 len=0 
+V frag sent(8) code=0 len=2 0a00
+V frag timeout(10) code=11 len=0 
+V frag sent(8) code=0 len=2 0b00
+V frag timeout(10) code=12 len=0 
+V frag sent(8) code=0 len=2 0c00
+V frag timeout(10) code=13 len=0 
+V frag sent(8) code=0 len=2 0d00
+V frag timeout(10) code=14 len=0 
+V frag sent(8) code=0 len=2 0e00
+V frag timeout(10) code=15 len=0 
+V frag sent(8) code=0 len=2 0f00
+V frag timeout(10) code=16 len=0 
+V frag sent(8) code=2 len=2 1002
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=0 len=2 0800
+V frag timeout(10) code=9 len=0 
+V frag sent(8) code=0 len=2 0900
+V frag timeout(10) code=10 len=0 
+V frag sent(8) code=0 len=2 0a00
+V frag timeout(10) code=11 len=0 
+V frag sent(8) code=0 len=2 0b00
+V frag timeout(10) code=12 len=0 
+V frag sent(8) code=0 len=2 0c00
+V frag timeout(10) code=13 len=0 
+V frag sent(8) code=0 len=2 0d00
+V frag timeout(10) code=14 len=0 
+V frag sent(8) code=0 len=2 0e00
+V frag timeout(10) code=15 len=0 
+V frag sent(8) code=0 len=2 0f00
+V frag timeout(10) code=16 len=0 
+V frag sent(8) code=2 len=2 1002
+V auto(15) code=164 len=4 000e0006
+V auto(15) code=163 len=3 030000
+V auto(15) code=193 len=4 823b0000
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 00000000
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 00000000
+V auto(15) code=193 len=4 823b0000
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 00000000
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 00000000
+V auto(15) code=193 len=4 823b0000
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0100
+V frag timeout(10) code=3 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0006
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V assoc ok(3) code=1 len=0 
+V frag sent(8) code=0 len=2 0000
+V frag timeout(10) code=1 len=0 
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0100
+V frag timeout(10) code=2 len=0 
+V rx frame(14) code=14 len=2 0100
+V frag sent(8) code=0 len=2 0200
+V frag timeout(10) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V frag timeout(10) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V frag timeout(10) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V frag timeout(10) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V frag timeout(10) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V frag timeout(10) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V auto(15) code=164 len=4 000e0001
+V auto(15) code=193 len=4 823b0000
+V channel(1) code=1 len=0 
+V assoc attempt(2) code=1 len=1 00
+V rx frame(14) code=14 len=2 0100
+V assoc ok(3) code=1 len=0 
+V WSC start(7) code=1 len=8 0101000efe00372a
+V frag sent(8) code=0 len=2 0000
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=1 len=0 
+V frag sent(8) code=0 len=2 0100
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=2 len=0 
+V frag sent(8) code=0 len=2 0200
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=3 len=0 
+V frag sent(8) code=0 len=2 0300
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=4 len=0 
+V frag sent(8) code=0 len=2 0400
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=5 len=0 
+V frag sent(8) code=0 len=2 0500
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=6 len=0 
+V frag sent(8) code=0 len=2 0600
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=7 len=0 
+V frag sent(8) code=0 len=2 0700
+V rx frame(14) code=14 len=2 0600
+V frag ack(9) code=8 len=0 
+V frag sent(8) code=2 len=2 0802
+V rx frame(14) code=132 len=2 0601
+V leak(12) code=0 len=16 00000000000000000000000000000000
+V rx frame(14) code=132 len=2 0601
+V leak(12) code=1 len=16 10222002c00f03951800cc00aaffaaff
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V leak(12) code=7 len=16 823b09440000022c823b2de44e1524c7
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V leak(12) code=15 len=16 00000000000000000000000000000000
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V rx frame(14) code=132 len=2 0601
+V cred TLV(13) code=15 len=15 434733303030445632414132424330
+V capture(16) code=0 len=64 0000ffbc0000006400001807010000000000000c82848b962430486c0c1218600000000000ffff000001000000000000000000000000fffa00c11511000e51dc
+V capture(16) code=1 len=64 823c64a00182850000000000000000000000000000000000000000010401040000000102000000000000000c000000000000000000000000000200000000810f
+V capture(16) code=2 len=64 fffafffa823bf348823bd03c0000003082cedebc8160ec20823b6a58000000000000000000000000000100000000000000000000823ba54c823b6aec00000014
+V capture(16) code=3 len=64 000000010000000082cca0c4827f63d80000002c823b7104823b7115000000007770735f737563636573735f6d6f646500340000823c143c0000000000000030
+V capture(16) code=4 len=64 200290887f00000180afa30800000002815f00008185546c00000100815f000082f93df0827bf694823ba76800000074824017d8000000000000000000000000
+V capture(16) code=5 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=6 len=64 000000000000000000000000000000000000000082e665c4823be83c823bb54800000354100a93808602a85bd834b82cf80b0bf391100d7f0000004347333030
+V capture(16) code=7 len=64 30440000000000000000000000000000000000000000000000000000000600000050f20400010023000d010026880200000000004e6574676561720000000000
+V capture(16) code=8 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004e65746765617200000000
+V capture(16) code=9 len=64 00000000000000000000000000000000000000000000313233343536000000000000000000000000000000000000000000000000000000303030303030310000
+V capture(16) code=10 len=64 00000000000000000000000000000000000000000000000001000000800000008000000000000000000000000000000143473330303044563243300000000000
+V capture(16) code=11 len=64 0000000000000000000000000000000000575041322d50534b000000000000000000000000004347333030304456324141324243300000000000000000000000
+V capture(16) code=12 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000800000000000000000000200a00000000
+V capture(16) code=13 len=64 0000000000000006ffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004
+V capture(16) code=14 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=15 len=64 000000000000000000000000823bb554000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=16 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=17 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=18 len=64 00000000000000000000000000000000000000000000000000000000000000003c22fb198a420000000000000000000000000000000000000000000000000000
+V capture(16) code=19 len=64 000000000000000000000000000000000000000000000000000000000000000000000000000000008240171c823c1d78823bf0b00000100c0114007a103fd9a1
+V capture(16) code=20 len=64 ae39fc94d16b1a5b05ad3da20406000000001e0e3130306437666435306266621f0e336332326662313938613432200e31303064376664353062666205060000
+V capture(16) code=21 len=64 00510c06000005783d06000000134f1202090010fe00372a00000001040200005012592f877a23fbbe6e03ba13d74b2f2f3c0000000000000000000000000000
+V capture(16) code=22 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=23 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=24 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=25 len=64 000000000000000000000000104f134900100c0200000000080e8000008040005012fa5b78de4fe4958e0fecdb250884856ffd21020280104400010110210009
+V capture(16) code=26 len=64 4553505245535349461023000d45535052455353494620494f5410240007657370333273321042000c33633232666231393861343210540008000a0050f20400
+V capture(16) code=27 len=64 021011000a45535020444556494345103c000101100200020000101200020000100900020000102d0004800000001049000600372a0001205012aa930312b3ba
+V capture(16) code=28 len=64 9654cfcd97e073d606a2000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=29 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=30 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+V capture(16) code=31 len=64 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+DUMP RESULT 0
+SAVED CG3000DV2AA2BC0

@@ -1,0 +1,11 @@
+# archives
+*.zip
+
+# macOS
+.DS_Store
+
+assets/
+
+# python scratch
+__pycache__/
+*.pyc
