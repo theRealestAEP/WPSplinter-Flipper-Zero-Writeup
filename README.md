@@ -6,7 +6,7 @@ This work was derived from <https://qkaiser.github.io/broadcom-wps/>.
 
 After reading about the broadcom permanent day I realized I finally had a use for my flipper zero with it's wifi module beyond just as an expensive universal remote and turn it into the Mr. Robot/watchdog esq hack tool I imagined it would be when I bought it /jk mostly. But the idea of pure OTA wifi popping really did scratch that hacker man itch in my brain as something you mostly see in movies or games. So I immediately went onto ebay and bought an old used Netgear CG3000DV2C0 that has a Broadcom BCM3380-class cable gateway. The perfect $20 target.
 
-I received the router and immediately factory rest it. For reference the BSSID was `10:0d:7f:xx:xx:xx` and the hidden SSID was `CG3000DV2C0`. The password was a 15 character unique-to-the-router key printed on the router. I never connected the router to the broader internet or to any other device on my network.
+I received the router and immediately factory reset it. For reference the BSSID was `10:0d:7f:xx:xx:xx` and the hidden SSID was `CG3000DV2C0`. The password was a 15 character unique-to-the-router key printed on the router. I never connected the router to the broader internet or to any other device on my network.
 
 In the end we were able to reproduce the Broadcom WPS registrar overflow documented by Quentin Kaiser ("Broadcom WPSplinter"). The PSK was recovered from the router's driver heap at `0x823bf82c` in the console runs and `0x823c1bf8` on the verified Flipper run.
 
